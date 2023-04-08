@@ -3,7 +3,7 @@
 <h3>I'm passionate about using data to solve real-world problems and improve people's lives.</h3>
 <h3>My skills include data cleaning, data analysis, machine learning, and data visualization.</h3>
 <h3>I'm a fast learner and enjoy taking on new challenges.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </img>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> </img>
 - 🌱 I’m currently learning **Data Mining,R and Power BI**
 
 <h3 align="left">Connect with me:https://www.facebook.com/profile.php?id=100018080626611</h3>
