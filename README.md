@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/big-data-network-digital-technology-background_262424-1177.jpg)]
+![MasterHead](https://img.freepik.com/free-vector/big-data-blue-wave-visualization-visual-data-complexity_1217-3418.jpg?t=st=1680960214~exp=1680960814~hmac=1c4ce87a64c5fd056ce915bbe4515db7351fcad9cf46bf047eb25b3b7d52eb68)
 <h1>Hi there, I'm Ho Viet Dung</h1>
 
 <h3>About Me</h3>
