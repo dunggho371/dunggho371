@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ho Viet Dung</h1>
 
-* About Me
+<h3>About Me</h3>
 <h4>I'm a student majoring in AI (Data Science) at FPT University.</h4>
 <h4>I'm passionate about using data to solve real-world problems and improve people's lives.</h4>
 <h4>My skills include data cleaning, data analysis, machine learning, and data visualization.</h4>
