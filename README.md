@@ -35,5 +35,5 @@
 </p>
 
 <h3>Frame Work:</h3>
-<p>Python: Pandas,Numpy,Matplotlib,Sckitlearn,Seaborn,Plotly,...</p>
-<p>R: ggplot2,plotly,lattice,tidyr,...</p>
+* Python: Pandas,Numpy,Matplotlib,Sckitlearn,Seaborn,Plotly,...
+* R: ggplot2,plotly,lattice,tidyr,...
