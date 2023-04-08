@@ -7,9 +7,9 @@
 <h4>I'm a fast learner and enjoy taking on new challenges.</h4>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> </img>
 
-- 🌱 I’m currently learning **Data Mining,R and Power BI**
+🌱 I’m currently learning **Data Mining,R and Power BI**
 
-<h3 align="left">Connect with me:https://www.facebook.com/profile.php?id=100018080626611</h3>
+<h4 align="left">Connect with me:https://www.facebook.com/profile.php?id=100018080626611</h4>
 <p align="left">
 </p>
 
