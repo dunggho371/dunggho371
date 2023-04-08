@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Ho Viet Dung</h1>
-<h3 align="center">I'm a student majoring in AI (Data Science) at FPT University. I'm passionate about using data to solve real-world problems and improve people's lives. My skills include data cleaning, data analysis, machine learning, and data visualization. I'm a fast learner and enjoy taking on new challenges.</h3>
+<h3 align="center">I'm a student majoring in AI (Data Science) at FPT University.</h3>
+<h3 align="center">I'm passionate about using data to solve real-world problems and improve people's lives.</h3>
+<h3 align="center">My skills include data cleaning, data analysis, machine learning, and data visualization.</h3>
+<h3 align="center">I'm a fast learner and enjoy taking on new challenges.</h3>
 
-- 🌱 I’m currently learning **Data Mining and R**
+- 🌱 I’m currently learning **Data Mining,R and Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
