@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Data Mining,R and Power BI**
 
-<h4 align="left">Connect with me:https://www.facebook.com/profile.php?id=100018080626611</h4>
+<h4 align="left">Connect with me:<a href="https://www.facebook.com/profile.php?id=100018080626611" target="_blank" rel="noreferrer"> <img src="https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A2021_Facebook_icon.svg&psig=AOvVaw21ySb-zt3qZtnlqE7WGPYB&ust=1681044777474000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCUrfepmv4CFQAAAAAdAAAAABAE" width="40" height="40"/> </a></h4>
 <p align="left">
 </p>
 
