@@ -9,7 +9,8 @@
 
 🌱 I’m currently learning **Data Mining,R and Power BI**
 
-<h4 align="left">Connect with me:<a href="https://www.facebook.com/profile.php?id=100018080626611" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" width="40" height="40"/> </a></h4>
+<h4 align="left">Connect with me:</h4>
+<a href="https://www.facebook.com/profile.php?id=100018080626611" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" width="40" height="40"/> </a><a href="https://zalo.me/0917335118" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/Zs0-SVFd7FHABCT6buDhAVmOZHlIJS8Z37LMmWghcJV9N4ryZfpI0dZa0jzejcJ3cQ=w240-h480-rw" width="40" height="40"/> </a>
 <p align="left">
 </p>
 
