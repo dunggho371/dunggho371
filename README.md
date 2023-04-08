@@ -5,11 +5,11 @@
 <p>I'm passionate about using data to solve real-world problems and improve people's lives.</p>
 <p>My skills include data cleaning, data analysis, machine learning, and data visualization.</p>
 <p>I'm a fast learner and enjoy taking on new challenges.</p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 🌱 I’m currently learning **Data Mining, R, and Power BI**
 
-<h4>Connect with me:</h4>
+<h3>Connect with me:</h3>
 <p>
   <a href="https://www.facebook.com/profile.php?id=100018080626611" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" width="40" height="40">
@@ -31,3 +31,7 @@
     <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40">
   </a>
 </p>
+
+<h3>Frame Work:</h3>
+<p>Python: Pandas,Numpy,Matplotlib,Sckitlearn,Seaborn,Plotly,...</p>
+<p>R: ggplot2,plotly,lattice,tidyr,...</p>
