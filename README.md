@@ -1,5 +1,3 @@
-<img src="https://www.ntu.edu.sg/images/default-source/hub-programmes/scse/msc_datasc2_web775x465.jpg?sfvrsn=4dba8fec_5" style="width: 100%; max-width: 1200px;">
-
 <h1>Hi there, I'm Ho Viet Dung</h1>
 
 <h3>About Me</h3>
