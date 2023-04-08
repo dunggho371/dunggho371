@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/technology-medical-infographic-design_23-2148497578.jpg?t=st=1680937231~exp=1680937831~hmac=ec10c0a954d36cd9c323dd23f4e141eeade39e73dc448c4b5e1283228e70a1c0)]
+[![MasterHead](https://img.freepik.com/premium-vector/big-data-network-digital-technology-background_262424-1177.jpg)]
 <h1>Hi there, I'm Ho Viet Dung</h1>
 
 <h3>About Me</h3>
